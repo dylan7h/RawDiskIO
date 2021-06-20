@@ -1,4 +1,4 @@
-export TARGET	:= Template
+export TARGET	:= RawDiskIO
 export TOPDIR	:= ..
 
 all:
